@@ -13,8 +13,8 @@ A website which supports the seller to sell electronic equipments and the custom
 - SQL Server 20
 ## Features
 1. Website management:
--Administrator (admin) manages categories, brands, products, users and orders.
--Admin can see each type and create, update or delete them. 
+- Administrator (admin) manages categories, brands, products, users and orders.
+- Admin can see each type and create, update or delete them. 
 ## Setup
 ## Project Status
 
