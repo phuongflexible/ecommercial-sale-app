@@ -1,4 +1,4 @@
-# ecommercial-sale-app
+# Ecommercial sale app
 A website which supports ordering and buying electronic products.
 ## Table of Contents
 * [General Information] (general-information)
