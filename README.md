@@ -23,6 +23,13 @@ A website which supports the seller to sell electronic equipments and the custom
 - Find similar products automatically.
 - Give the product rating after buying.
 - Comment about product.
+3. Buying management
+- Each user has a cart, which becomes empty when they log out.
+- At homepage, they can add products to the cart.
+- At cart page, they can check products they have added and remove products from the cart.
+- User can order and go to payment page. All products which was in cart are taken into the order. Finish payment will make the cart empty.
+4. Order management
+
 ## Setup
 ## Project Status
 
