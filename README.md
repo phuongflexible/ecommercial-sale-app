@@ -19,7 +19,10 @@ A website which supports the seller to sell electronic equipments and the custom
 - Add, update, delete products.
 - Find products based on product's name, price range, category and brand.
 - See a product in detail.
-- 
+- Being able to update the quantity of products in stock when log in as admin.
+- Find similar products automatically.
+- Give the product rating after buying.
+- Comment about product.
 ## Setup
 ## Project Status
 
