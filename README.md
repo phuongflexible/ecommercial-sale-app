@@ -42,8 +42,7 @@ A website which supports the seller to sell electronic equipments and the custom
 - There are two payment methods: by cash or by Paypal.
 - When user would like to pay, they will be redirected to payment page which have buyer's name, date of purchase and allowed to choose which payment method they would like to use.
 7. Statistic
-- Admin can 
-
+- Admin can calculate revenue and number of products sold which is based on categories, brands and time (month, quarter, year).
 ## Setup
 ## Project Status
 
