@@ -38,6 +38,11 @@ A website which supports the seller to sell electronic equipments and the custom
 - User can log in their user account.
 - Have ability to update their personal information (avatar, name, phone number,...)
 - User can review their orders from the past.
+6. Payment
+- There are two payment methods: by cash or by Paypal.
+- When user would like to pay, they will be redirected to payment page which have buyer's name, date of purchase and allowed to choose which payment method they would like to use.
+7. Statistic
+- Admin can 
 
 ## Setup
 ## Project Status
