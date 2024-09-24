@@ -11,6 +11,7 @@ A website which supports the seller to sell electronic equipments and the custom
 ## Techonologies Used
 - .NET 8.0
 - SQL Server 20
+- Visual Studio 2022
 ## Features
 1. Website management:
 - Administrator (admin) manages theses objects: categories, brands, products, users and orders.
@@ -44,5 +45,11 @@ A website which supports the seller to sell electronic equipments and the custom
 7. Statistic
 - Admin can calculate revenue and number of products sold which is based on categories, brands and time (month, quarter, year).
 ## Setup
+- To run this project, the first thing to do is create database.
+- Declare the equipment's server name in file appsetting.json. Fill in: "DefaultConnection": "Server=...;"
+- Choose a database name and declare it in file appsetting.json. Fill in: "DefaultConnection": ...;Database=...;"
+- In Package Manage Console, type "update-database" and enter. This will create a database in SQL Server, which have name declared.
+- Press F5 and run the web. 
 ## Project Status
+- This project has completely finished.
 
