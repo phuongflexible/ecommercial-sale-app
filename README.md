@@ -29,7 +29,9 @@ A website which supports the seller to sell electronic equipments and the custom
 - At cart page, they can check products they have added and remove products from the cart.
 - User can order and go to payment page. All products which was in cart are taken into the order. Finish payment will make the cart empty.
 4. Order management
-
+- Admin can see orders from the past.
+- User can see orders which they ordered.
+- Allow to follow the state of the order. After ordering, the state turns into "delivering" state. When the customer confirm receiving order, the order is finished.
 ## Setup
 ## Project Status
 
