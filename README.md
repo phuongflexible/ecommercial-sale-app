@@ -1,11 +1,11 @@
 # Ecommercial sale website
 A e-commercial sale website created with asp.net MVC and SQL Server.
 ## Table of Contents
-* [General Information] (#general-information)
-* [Technologies Used] (#techonologies-used)
-* [Features] (#features)
-* [Setup] (#setup)
-* [Project Status] (#project-status)
+* [General Information](#general-information)
+* [Technologies Used](#techonologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
 ## General Information
 A website which supports the seller to sell electronic equipments and the customers to order and buy them.
 ## Techonologies Used
@@ -49,6 +49,7 @@ A website which supports the seller to sell electronic equipments and the custom
 - Declare the equipment's server name in file appsetting.json. Fill in: "DefaultConnection": "Server=...;"
 - Choose a database name and declare it in file appsetting.json. Fill in: "DefaultConnection": ...;Database=...;"
 - In Package Manage Console, type "update-database" and enter. This will create a database in SQL Server, which have name declared.
+- Choose a port to run (http, https, IIS Express...).
 - Press F5 and run the web. 
 ## Project Status
 - This project has completely finished.
