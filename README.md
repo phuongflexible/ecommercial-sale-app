@@ -32,6 +32,13 @@ A website which supports the seller to sell electronic equipments and the custom
 - Admin can see orders from the past.
 - User can see orders which they ordered.
 - Allow to follow the state of the order. After ordering, the state turns into "delivering" state. When the customer confirm receiving order, the order is finished.
+5. User management
+- User can register an account, which is a normal user account.
+- Only one admin account.
+- User can log in their user account.
+- Have ability to update their personal information (avatar, name, phone number,...)
+- User can review their orders from the past.
+
 ## Setup
 ## Project Status
 
