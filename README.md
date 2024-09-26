@@ -45,9 +45,9 @@ A website which supports the seller to sell electronic equipments and the custom
 7. Statistic
 - Admin can calculate revenue and number of products sold which is based on categories, brands and time (month, quarter, year).
 ## Setup
-- To run this project, the first thing to do is create database.
-- Declare the equipment's server name in file appsetting.json. Fill in: "DefaultConnection": "Server=...;"
-- Choose a database name and declare it in file appsetting.json. Fill in: "DefaultConnection": ...;Database=...;"
+- To run this project, the first thing to do is to create database.
+- Declare the equipment's server name and the database's name which user names by themselves in file appsetting.json. Fill in:
+  "DefaultConnection": "Server=_server name_;Database=_database's name_;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true"
 - In Package Manage Console, type "update-database" and enter. This will create a database in SQL Server, which have name declared.
 - Choose a port to run (http, https, IIS Express...).
 - Press F5 and run the web. 
